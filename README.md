@@ -17,7 +17,7 @@ Full Stack Developer (MERN) specializing in building scalable web applications w
 
 ## 💼 Professional Experience
 
-### **Cloud369** (May 2025 – Present)  
+### **Cloud369** (July 2025 – Dec 2025)  
 _Software Development Engineer Intern_  
 - Developed scalable web applications using ReactJS, NodeJS, and ExpressJS  
 - Created reusable UI components with GSAP and Framer Motion animations (35%↑ engagement)  
