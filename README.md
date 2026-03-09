@@ -11,6 +11,20 @@
 
 Full Stack Developer specializing in MERN stack with expertise in building scalable web applications, 3D experiences, and data-driven dashboards. Passionate about creating seamless user experiences and solving complex problems through elegant code.
 
+## 💼 Professional Experience
+
+### **Cloud369** | *Software Development Engineer Intern* (July 2025 – Dec 2025)
+- Developed B2B tax calculation platform for European clients featuring bill image capture and Python-based data extraction
+- Built 3D virtual gym experience using Three.js and MERN stack with cross-device optimization
+- Implemented complex UI logic and real-time interactions for seamless user experiences
+- Integrated backend APIs ensuring smooth end-to-end tax processing workflow
+
+### **Fit Force Sports and Event LLP** | *Frontend Developer* (Nov 2024 – April 2025)
+- Engineered high-traffic marathon registration platform handling peak period loads
+- Architected Redux-based bib management system for efficient participant data handling
+- Improved page load speed by 45% through code splitting and lazy loading
+- Created Python scripts for generating registration metrics and race statistics dashboards
+
 ## 🚀 Featured Projects
 
 ### [AI-Powered Crop Health Monitoring System](https://github.com/MehulGoyal07/crop-health-ai)
@@ -33,20 +47,6 @@ Full Stack Developer specializing in MERN stack with expertise in building scala
 - 90+ Lighthouse score through SSR and image optimization  
 - Comment moderation system with 80% spam reduction  
 - Responsive design with smooth GSAP animations
-
-## 💼 Professional Experience
-
-### **Cloud369** | *Software Development Engineer Intern* (July 2025 – Dec 2025)
-- Developed B2B tax calculation platform for European clients featuring bill image capture and Python-based data extraction
-- Built 3D virtual gym experience using Three.js and MERN stack with cross-device optimization
-- Implemented complex UI logic and real-time interactions for seamless user experiences
-- Integrated backend APIs ensuring smooth end-to-end tax processing workflow
-
-### **Fit Force Sports and Event LLP** | *Frontend Developer* (Nov 2024 – April 2025)
-- Engineered high-traffic marathon registration platform handling peak period loads
-- Architected Redux-based bib management system for efficient participant data handling
-- Improved page load speed by 45% through code splitting and lazy loading
-- Created Python scripts for generating registration metrics and race statistics dashboards
 
 ## 🛠️ Technical Arsenal
 
